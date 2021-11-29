@@ -2,7 +2,7 @@ Reinforcement Learning Homework ReadMe
 
 1. Download the code in the github: 
 
-https://github.com/qingninglily/CS7641/Reinforcement_Learning
+https://github.com/qingninglily/CS7641/tree/main/Reinforcement_Learning
 
 2.Install Packages
 Use "Pip install [package name]" command to install the packages
